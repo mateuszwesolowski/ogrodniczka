@@ -1,0 +1,5 @@
+streamlit
+pandas
+qdrant-client
+openai
+numpy 
